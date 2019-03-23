@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itscottpool/GradientGenerator/issues"
   },
-  "homepage": "https://github.com/itscottpool/GradientGenerator#readme"
+  "homepage": "https://github.com/itscottpool/GradientGenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
